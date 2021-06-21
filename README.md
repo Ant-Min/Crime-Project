@@ -14,3 +14,5 @@ Note that there are two versions of the code include in this repositroy. I compl
  
 When you run the program, it takes some time to calculate the data from the spreadsheet; there is no visual to show it is loading, but the results should print out
  after around 30 seconds.
+ 
+ The Excel sheet is in a zipped folder due to its large size. It will need to be unzipped in ther location of the zipped folder for the code to work.
