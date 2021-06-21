@@ -9,10 +9,7 @@ This project was done in Fall 2019 by me for my Python class at my first univers
 5. Count and print how many crimes occured between the hours of twelve a.m. and six a.m.
 6. Print the crime with the most occurances
 
-Note that there are two versions of the code include in this repositroy. I completed the project once but decided to rewrite it to make it look
- more efficient and organized.
- 
 When you run the program, it takes some time to calculate the data from the spreadsheet; there is no visual to show it is loading, but the results should print out
  after around 30 seconds.
  
- The Excel sheet is in a zipped folder due to its large size. It will need to be unzipped in ther location of the zipped folder for the code to work.
+I seem to be having issues attaching the Excel sheet this program requires due to its large file size. Will update when it is available.
